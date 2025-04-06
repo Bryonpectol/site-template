@@ -68,7 +68,7 @@ body {
 
 /* My stuff */
 
-  @keyframes menuitems {
+/*   @keyframes menuitems {
     0% {
         background-color: hsl(0, 0%, 6%);
         color: white;
@@ -133,5 +133,5 @@ body {
 
   .navclicked:hover {
     animation: menuitems1 1s forwards;
-  }
+  } */
   
